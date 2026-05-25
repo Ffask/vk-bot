@@ -6,7 +6,7 @@ import random
 # ===== НАСТРОЙКИ =====
 GROUP_TOKEN = ""
 GROUP_ID = 
-OPENROUTER_API_KEY = 
+OPENROUTER_API_KEY = ""
 # =====================
 
 # Подключение к ВК
