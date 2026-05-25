@@ -4,8 +4,9 @@ from vk_api.utils import get_random_id
 import random
 
 # ===== НАСТРОЙКИ =====
-GROUP_TOKEN = "vk1.a.Kzm9y_VHfK_KZpicgX302mh1Ay8ZHS9oL4EQD8-Pj5hRvROwc80ZyLeT6lmI8gOoZqGVVTonBoYBAi8ELPYsH_-a_rcyahm-mvIyr-RURofObhhdAN3RozrjRbZa2_xVtLlqdjG4OuLdZucaguVY8-rrGjoXkXJe7M86Ts4VH3kllEXS8By_GqQWfWdmRK93bzBtUAaZzB5hv8Od4-KdCg"
-GROUP_ID = 238813733
+GROUP_TOKEN = ""
+GROUP_ID = 
+OPENROUTER_API_KEY = 
 # =====================
 
 # Подключение к ВК
